@@ -31,11 +31,14 @@ reflection is scene-specific and approximately fixed in image coordinates.
 
 ## Scenes
 
-| Scene | Setting | FPS | Reflective training frames | Held-out non-reflective frames |
-|---|---|---|---|---|
-| rs1 | historic town center | 8 | 134 | 30 |
-| rs2 | tree-lined institutional district | 6 | 82 | 30 |
-| rs3 | suburban residential streets | 8 | 52 | 30 |
+| Scene | Name in the paper | Setting | FPS | Reflective training frames | Held-out non-reflective frames |
+|---|---|---|---|---|---|
+| rs1 | Leesburg | historic town center | 8 | 134 | 30 |
+| rs2 | Martin | tree-lined institutional district | 6 | 82 | 30 |
+| rs3 | Reston | suburban residential streets | 8 | 52 | 30 |
+
+The paper and the project page refer to the scenes by name; this release keeps the short IDs rs1 to rs3
+for directory names. rs1 is Leesburg, rs2 is Martin and rs3 is Reston.
 
 ## Layout
 
