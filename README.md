@@ -1,5 +1,11 @@
 # RIDE-Splat Dataset
 
+> **This dataset has moved to https://github.com/ridesplat/ride-splat**, which holds the RIDE-Splat
+> code and the dataset together. Download the same file from its
+> [dataset-v0.1 release](https://github.com/ridesplat/ride-splat/releases/tag/dataset-v0.1) and open
+> issues there. This repository is archived; its v0.1-preliminary download below keeps working and is
+> byte-identical (sha256 `437fd68f2b1cf988ca0442cf4540a00ec83029db5609c625e2070ef41546fc0f`).
+
 A 3D reconstruction benchmark for removing windshield reflections from driving video.
 
 > **Preliminary release (v0.1).** This release contains the three scenes evaluated in the paper,
